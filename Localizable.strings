@@ -1,0 +1,27 @@
+/* 
+  Localizable.strings
+  InspireMeProject
+
+  Created by Arwa Alzahrani on 09/08/1443 AH.
+  
+*/
+"Lend" = "إعارة";
+"Waive" = "تخلي";
+"Name of piece:" = "اسم القطعة";
+"Enter your art piece name" = "ادخل اسم القطعة";
+"Painting story: " = "قصة القطعة";
+"Tell your artwork story" = "اكتب نبذه عن قطعتك الفنية";
+"Tags :" = "Tags :";
+"Portrait" = "بورتريه";
+"Cities" = "مدن";
+"People" = "اشخاص";
+"Music" = "موسيقى";
+"Animal" = "حيوانات";
+"Add" = "إضافة";
+"Cancel" = "إلغاء";
+"Waiver" = "مُعار";
+"I spent 3 hours working on the begining of this art piece , I stoped work on it since I lost my passion when my tablet has broken , I’m interesting to see how can someone finish it in different way." = "لقد أمضيت 3 ساعات في العمل على بداية هذه القطعة الفنية ، وتوقفت عن العمل عليها منذ أن فقدت شغفي عندما انكسر جهازي اللوحي ، ومن الممتع أن أرى كيف يمكن لشخص ما إنهاءها بطريقة مختلفة.";
+"Choose" = "اختيار";
+"Upload photo from:" = "رفع من الجهاز";
+"Camera" = "الكاميرا";
+"Photo library" = "استديو الصور";
