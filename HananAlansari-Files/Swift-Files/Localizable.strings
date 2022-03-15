@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  Artist Profile3
+
+  Created by Hanan Alansari on 11/08/1443 AH.
+  
+*/
+"Artist Profile" = "الملف الشخصي";
+"Edit Profile" = "تحرير الملف";
+"Save" = "حفظ";
+"Back" = "رجوع";
+"Alice Marc" = "آليس مارس";
+"Bio" = "السيرة الذاتية";
+"A digital and traditional artist intersted in nature paintings" = "فنان رقمي وتقليدي مهتم برسومات الطبيعة";
+"Contact" = "اتصال";
+"Exchange" = "تبادل";
+"Shop" = "متجر";
+
