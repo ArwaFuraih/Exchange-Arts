@@ -1,33 +1,18 @@
 /* 
   Localizable.strings
-  Myexchangepage
+  MyContrcat
 
   Created by Sara Ahmed Alshammari on 11/08/1443 AH.
   
 */
-
-"Music" = "موسيقى";
-"Animals" = "حيوانات";
-"Foods" = "طعام";
-"Builiding" = "مباني";
-"Nature" = "الطبيعة";
-"Alice" = "اليس";
-"Animal" = "حيوانات";
-"I painted a brown dog with an incomplete body, M colors were used"= "رسمت كلبًا بنيًا بجسم غير مكتمل ، واستخدمت ألوان";
-"Lend" = "استعارة";
-"Face" = "وجهه";
-"Unfinshed face for women paint mixed feelings for painted " = "وجه غير مكتمل للمرأة يرسم مشاعر مختلطة للرسم";
-"Pieces" = "قطع";
-"Piece of art nead to complate It goes back to an ancient time " = "القطعة الفنية بحاجة لإكمالها تعود هذه القطعه إلى العصور القديمة";
-//
-"Alany" = "الني";
-"wiaver" = "تنازل";
-"Laila" = "ليلى";
-"Building" = "مباني";
-"Hany" = "هاني";
-"Drawing of an old building piece of art nead to complate " = "اكمال رسمه لقطعه فنية تعود للعصر القديم";
-"Artiest" = "فنان";
-"Ram" = "رام";
-"A family drawing dating back to the ancient times piece of art and people relaxing" = "رسم عائلي يعود إلى العصور القديمة قطعة فنية وشعبية ";
-"Sketch" = "سكيتشات";
-"FInitial drawing of a girl without colors nead to be done" = "رسم مبدئى لوجهه فتاة ود اكمالها";
+"The first party retains property rights. In the event of a violation or breach by the second party,the second party obligated to compensate the first party for psychological and material damage. The parties are also obligated to:" = "يحتفظ الطرف الأول بحقوق الملكية. في حال وجود مخالفة أو مخالفة من قبل الطرف الثاني يلتزم الطرف الثاني بتعويض الطرف الأول عن الضرر النفسي والمادي. الأطراف ملزمة أيضًا بما يلي:";
+"I, the owner of the painting allow the application to lend the painting to the second party under the condition of returning the painting , after the period of one month . In case the painting gets sold, the second party has the right to collect 40% and the application gets 10% of the selling price." = "أنا مالك اللوحة أسمح للتطبيق بإعارة اللوحة للطرف الثاني بشرط إعادة اللوحة بعد فترة شهر. في حال بيع اللوحة يحق للطرف الثاني تحصيل 40٪ والتطبيق 10٪ من سعر البيع.";
+"I, the owner of the painting allow the application to lend the painting to the second party without return, and each party has the right to fully utilize the painting and the application gets 10% " = "أنا مالك اللوحة أسمح للتطبيق بإعارة اللوحة للطرف الثاني بدون مقابل ولكل طرف الحق في الاستفادة الكاملة من اللوحة ويحصل التطبيق على 10٪";
+"Accept" = "اوافق";
+"Decline" = "رفض";
+"Wohoo!" = "اخيراً";
+"You’ve uploaded your artwork to exchange successfully!" = "لقد قمت بتحميل عملك الفني للتبادل بنجاح!";
+"Dismess" = "تجاهل";
+"You’re All Set!" = "أنت جاهز تمامًا!";
+"You’ve agreed to the artists’ terms,Can’t wait to see your touch!" = "لقد وافقت على شروط الفنانين ، لا يمكننا الانتظار لرؤية لمستك!";
+"Download Artwork" = "تنزيل العمل الفني";
